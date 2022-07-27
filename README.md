@@ -12,7 +12,7 @@
 4.	h >= 1 (в примере ниже: h = 5)
 
 a <br />
-ba
-aba
-baba
-ababa
+ba <br />
+aba <br />
+baba <br />
+ababa <br />
